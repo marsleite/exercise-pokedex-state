@@ -24,3 +24,10 @@ body {
   text-align: center;
   list-style: none;
 }
+button {
+  background: #232323;
+  color: antiquewhite;
+  padding: 2px;
+  width: 50px;
+  margin-left: 20px;
+}
