@@ -1,3 +1,33 @@
+body {
+  background: #131313;
+}
+
 .App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pk-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #232323;
+  color: blanchedalmond;
+  width: 300px;
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 5px;
+}
+
+.list-style {
   text-align: center;
+  list-style: none;
+}
+button {
+  background: #232323;
+  color: antiquewhite;
+  padding: 2px;
+  width: 50px;
+  margin-left: 20px;
 }
